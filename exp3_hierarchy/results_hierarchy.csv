@@ -1,0 +1,4 @@
+Level,Latency(ns),Read_Energy(nJ),Leakage_Power(mW),Area(mm2)
+L1 (Fast),0.779,0.081,12.398,0.196
+L2 (Balanced),2.182,0.112,0.067,0.352
+L3 (Huge),7.146,0.437,2.065,7.718
